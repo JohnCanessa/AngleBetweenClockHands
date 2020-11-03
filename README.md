@@ -7,7 +7,7 @@ https://leetcode.com/problems/angle-between-hands-of-a-clock/
 If interested in my solution in Java you can see the code here.
 To learn about my approach please visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/11/03/angle-between-hands-of-a-clock-java/
 
 Hope you have fun experiemnting and learning.
 
